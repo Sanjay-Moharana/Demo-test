@@ -1,6 +1,8 @@
 #include <iostream>
 using namespace std;
 
+//Adding the comments to the code
+
 struct node
 {
     int number;
